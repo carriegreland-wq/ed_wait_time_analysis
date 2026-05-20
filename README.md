@@ -63,7 +63,7 @@ LWBS spikes at 8am.
 [View on Tableau Public](https://public.tableau.com/app/profile/carrie.greland/viz/ed_wait_times_analysis/EDOperationsDashboard)
 
 ## Notebook
-[View in Google Colab](https://colab.research.google.com/drive/your-colab-link-here)
+[View in Google Colab]([https://colab.research.google.com/drive/12MB4MIdKp4HpVpzLSGQNrY5ZRHRZTMzx?usp=sharing]
 
 ## Files
 - `ed_wait_time_analysis.ipynb` — full project notebook
