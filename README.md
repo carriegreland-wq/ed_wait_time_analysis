@@ -53,11 +53,7 @@ Tables joined on `patient_id` (patients → visits) and `visit_id`
   to weekends
 
 ## Recommendation
-Staffing adjustments should target evening hours across all days of the week 
-rather than weekends only. The triage system requires immediate review — 
-critical patients are not being prioritized over non-urgent cases. Implement 
-rapid triage protocols and flexible staffing models to address shift-change 
-LWBS spikes at 8am.
+Staffing adjustments should target evening hours across all days of the week rather than weekends only. Findings from this synthetic dataset suggest potential triage prioritization concerns, as higher-acuity patients experienced wait times similar to lower-acuity patients. Further operational review and analysis using real ED data is recommended to validate these patterns. Hospitals may also consider evaluating rapid triage protocols and flexible staffing models to help reduce shift-change LWBS spikes at 8am.
 
 ## Heatmap Visualization
 
