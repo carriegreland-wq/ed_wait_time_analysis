@@ -19,7 +19,7 @@ ED is most overwhelmed to enable data-driven staffing decisions.
 
 ## Tools & Technologies
 - **Python (pandas, numpy)** — synthetic data generation
-- **SQLite** — SQL analysis written in MySQL syntax
+- **SQLite** — SQL querying and relational analysis
 - **Tableau Public** — operational dashboard with heatmap
 - **Google Colab** — project notebook
 
