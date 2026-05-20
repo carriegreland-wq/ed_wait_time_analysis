@@ -59,6 +59,10 @@ critical patients are not being prioritized over non-urgent cases. Implement
 rapid triage protocols and flexible staffing models to address shift-change 
 LWBS spikes at 8am.
 
+## Heatmap Visualization
+
+![ED Operations Heatmap](ED_Operations_Heatmap.png.png)
+
 ## Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/carrie.greland/viz/ed_wait_times_analysis/EDOperationsDashboard)
 
