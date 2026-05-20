@@ -45,9 +45,9 @@ Tables joined on `patient_id` (patients → visits) and `visit_id`
   175–225 minutes — Friday evenings peak at 225 minutes
 - General ED has the highest patient volume (331 visits) while Cardiac has 
   the longest average wait at 105 minutes
-- Critical finding: All acuity levels wait approximately 100 minutes regardless 
-  of severity — Level 1 (life-threatening) waits nearly identical to Level 5 
-  (non-urgent). This is a patient safety issue requiring immediate review
+- This synthetic dataset suggests critically ill patients may not be consistently prioritized over lower-acuity patients
+   — Level 1 (life-threatening) waits nearly identical to Level 5 
+  (non-urgent). This pattern highlights a potential patient safety concern requiring additional investigation
 - 8am has the highest LWBS rate at 19.10% — likely tied to morning shift changes
 - Evening overcrowding is systemic across all days of the week, not isolated 
   to weekends
